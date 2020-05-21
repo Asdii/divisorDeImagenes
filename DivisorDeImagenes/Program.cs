@@ -17,7 +17,7 @@ namespace DivisorDeImagenes
             Image img = Image.FromFile(nombreArchivo);
             int widthThird = (int)((double)img.Width / Convert.ToInt32(coleccionAbsoluta[coleccionAbsoluta.Length - 1]));
             int heightThird = (int)((double)img.Height);
-            Bitmap[] bmps = new Bitmap[16];
+            Bitmap[] bmps = new Bitmap[Convert.ToInt32(coleccionAbsoluta[coleccionAbsoluta.Length - 1])];
 
             for (int i = 0; i < Convert.ToInt32(coleccionAbsoluta[coleccionAbsoluta.Length - 1]); i++) {
                     bmps[i] = new Bitmap(widthThird, heightThird);

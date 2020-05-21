@@ -1,0 +1,7 @@
+C:\Users\Gnar\Desktop\divisorDeImagenes-master\DivisorDeImagenes\bin\Debug\DivisorDeImagenes.exe.config
+C:\Users\Gnar\Desktop\divisorDeImagenes-master\DivisorDeImagenes\bin\Debug\DivisorDeImagenes.exe
+C:\Users\Gnar\Desktop\divisorDeImagenes-master\DivisorDeImagenes\bin\Debug\DivisorDeImagenes.pdb
+C:\Users\Gnar\Desktop\divisorDeImagenes-master\DivisorDeImagenes\obj\Debug\DivisorDeImagenes.csprojAssemblyReference.cache
+C:\Users\Gnar\Desktop\divisorDeImagenes-master\DivisorDeImagenes\obj\Debug\DivisorDeImagenes.csproj.CoreCompileInputs.cache
+C:\Users\Gnar\Desktop\divisorDeImagenes-master\DivisorDeImagenes\obj\Debug\DivisorDeImagenes.exe
+C:\Users\Gnar\Desktop\divisorDeImagenes-master\DivisorDeImagenes\obj\Debug\DivisorDeImagenes.pdb
